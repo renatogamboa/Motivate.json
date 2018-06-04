@@ -1,0 +1,501 @@
+[
+	{
+		"id": 1,
+		"mood": "Motivation",
+		"quote": "Your dreams are a subconscious way of telling your mind, that reality needs to change."
+	},
+	{
+		"id": 2,
+		"mood": "Motivation",
+		"quote": "Today is a great day to succeed."
+	},
+	{
+		"id": 3,
+		"mood": "Motivation",
+		"quote": "Life is too short to worry about the little things, and those who are dragging you down."
+	},
+	{
+		"id": 4,
+		"mood": "Motivation",
+		"quote": "Life is meant for living. Do what makes you happy"
+	},
+	{
+		"id": 5,
+		"mood": "Motivation",
+		"quote": "If today was your last, what would you do to ensure you lived a fulfilling life?"
+	},
+	{
+		"id": 6,
+		"mood": "Motivation",
+		"quote": "We believe in you. Go chase your dreams."
+	},
+	{
+		"id": 7,
+		"mood": "Motivation",
+		"quote": "Don't second guess yourself. JUST DO IT."
+	},
+	{
+		"id": 8,
+		"mood": "Motivation",
+		"quote": "Fear is your biggest enemy. Move forward without it, and live without regret."
+	},
+	{
+		"id": 9,
+		"mood": "Motivation",
+		"quote": "Today is your day. Clear your mind. Without hesitation, CHASE THE VISION."
+	},
+	{
+		"id": 10,
+		"mood": "Motivation",
+		"quote": "Work hard, as if your enemy is watching."
+	},
+	{
+		"id": 11,
+		"mood": "Motivation",
+		"quote": "Work in silence, let success make the noise."
+	},
+	{
+		"id": 12,
+		"mood": "Motivation",
+		"quote": "Never stop because they said you couldn't do it."
+	},
+	{
+		"id": 13,
+		"mood": "Motivation",
+		"quote": "What will you be remembered for in this life? LEAVE YOUR LEGACY!"
+	},
+	{
+		"id": 14,
+		"mood": "Motivation",
+		"quote": "Without hustle, talent will only carry you so far."
+	},
+	{
+		"id": 15,
+		"mood": "Motivation",
+		"quote": "Do something today that your future self will thank you for."
+	},
+	{
+		"id": 16,
+		"mood": "Motivation",
+		"quote": "No matter how slow you go, you are still lapping everybody on the couch."
+	},
+	{
+		"id": 17,
+		"mood": "Motivation",
+		"quote": "Sweat is fat crying."
+	},
+	{
+		"id": 18,
+		"mood": "Motivation",
+		"quote": "The difference between the impossible and the possible lies in a person’s determination."
+	},
+	{
+		"id": 19,
+		"mood": "Motivation",
+		"quote": "If you want something you’ve never had, you must be willing to do something you’ve never done."
+	},
+	{
+		"id": 20,
+		"mood": "Motivation",
+		"quote": "Nothing will work unless you do."
+	},
+	{
+		"id": 21,
+		"mood": "Motivation",
+		"quote": "Strength does not come from physical capacity. It comes from an indomitable will."
+	},
+	{
+		"id": 22,
+		"mood": "Motivation",
+		"quote": "Don’t count the days, make the days count."
+	},
+	{
+		"id": 23,
+		"mood": "Motivation",
+		"quote": "Making excuses burns zero calories per hour."
+	},
+	{
+		"id": 24,
+		"mood": "Motivation",
+		"quote": "If you’re tired of starting over, stop giving up."
+	},
+	{
+		"id": 25,
+		"mood": "Motivation",
+		"quote": "When you feel like quitting, think about why you started."
+	},
+	{
+		"id": 26,
+		"mood": "Motivation",
+		"quote": "It’s going to be a journey. It’s not a sprint to get in shape."
+	},
+	{
+		"id": 27,
+		"mood": "Motivation",
+		"quote": "No matter how many mistakes you make or how slow you progress, you are still way ahead of everyone who isn’t trying."
+	},
+	{
+		"id": 28,
+		"mood": "Motivation",
+		"quote": "Just believe in yourself. Even if you don’t pretend that you do and, and some point, you will."
+	},
+	{
+		"id": 29,
+		"mood": "Motivation",
+		"quote": "We cannot start over. But we can begin now and make a new ending."
+	},
+	{
+		"id": 30,
+		"mood": "Motivation",
+		"quote": "Pain is temporary, pride is forever."
+	},
+	{
+		"id": 31,
+		"mood": "Motivation",
+		"quote": "We all have the same amount of hours in our day. Deciding how to use your hours is up to you."
+	},
+	{
+		"id": 32,
+		"mood": "Motivation",
+		"quote": "The only disability in life is a bad attitude."
+	},
+	{
+		"id": 33,
+		"mood": "Motivation",
+		"quote": "Don’t wish for it, work for it."
+	},
+	{
+		"id": 34,
+		"mood": "Green",
+		"quote": "A one hour workout is only 4% of your day.  NO EXCUSES."
+	},
+	{
+		"id": 35,
+		"mood": "Motivation",
+		"quote": "Excuses are for people who don’t want it bad enough."
+	},
+	{
+		"id": 36,
+		"mood": "Motivation",
+		"quote": "The question isn’t “can you?”  It’s “will you?”"
+	},
+	{
+		"id": 37,
+		"mood": "Motivation",
+		"quote": "Workout early in the morning –  before your brain has time to realize what you’re doing."
+	},
+	{
+		"id": 38,
+		"mood": "Motivation",
+		"quote": "Turn a setback into a comeback."
+	},
+	{
+		"id": 39,
+		"mood": "Motivation",
+		"quote": "To change your body, you must first change your mind."
+	},
+	{
+		"id": 40,
+		"mood": "Motivation",
+		"quote": "Challenges are what makes life interesting.  Overcoming them is what makes life meaningful."
+	},
+	{
+		"id": 41,
+		"mood": "Motivation",
+		"quote": "Don’t let one bad day kill your confidence and progress."
+	},
+	{
+		"id": 42,
+		"mood": "Motivation",
+		"quote": "When you go in search of honey, you must expect to get stung by some bees."
+	},
+	{
+		"id": 43,
+		"mood": "Motivation",
+		"quote": "Embrace and love your body. Is the only one you’ll ever have."
+	},
+	{
+		"id": 44,
+		"mood": "Motivation",
+		"quote": "Strive for progress, not perfection."
+	},
+	{
+		"id": 45,
+		"mood": "Motivation",
+		"quote": "Work hard now, selfie later."
+	},
+	{
+		"id": 46,
+		"mood": "Motivation",
+		"quote": "Do it for the after picture."
+	},
+	{
+		"id": 47,
+		"mood": "Motivation",
+		"quote": "Learn to love the burn."
+	},
+	{
+		"id": 48,
+		"mood": "Motivation",
+		"quote": "If plan “A” didn’t work, the alphabet has 25 other letters.  Stay cool."
+	},
+	{
+		"id": 49,
+		"mood": "Motivation",
+		"quote": "Eat clean.  Train Mean.  Get Lean."
+	},
+	{
+		"id": 50,
+		"mood": "Motivation",
+		"quote": "Goals are just dreams with deadlines."
+	},
+	{
+		"id": 51,
+		"mood": "Motivation",
+		"quote": "Remember the person who gave up? Neither do we."
+	},
+	{
+		"id": 52,
+		"mood": "Motivation",
+		"quote": "In a year from now you will look back at yourself and be proud of what you achieved."
+	},
+	{
+		"id": 53,
+		"mood": "Motivation",
+		"quote": "Love yourself. Be fearless. And Remember that you are destined for greatness."
+	},
+	{
+		"id": 54,
+		"mood": "Motivation",
+		"quote": "Go after your dreams. No matter how big they are."
+	},
+	{
+		"id": 55,
+		"mood": "Motivation",
+		"quote": "Go into the gym and push yourself to the limit, and do things you thought were impossible."
+	},
+	{
+		"id": 56,
+		"mood": "Motivation",
+		"quote": "The successful ones are those who never give up."
+	},
+	{
+		"id": 57,
+		"mood": "Motivation",
+		"quote": "Let your desire to achieve success in the gym be your motivation."
+	},
+	{
+		"id": 58,
+		"mood": "Motivation",
+		"quote": "I did not wake up today to be average."
+	},
+	{
+		"id": 59,
+		"mood": "Motivation",
+		"quote": "Dream BIG and aim HIGH."
+	},
+	{
+		"id": 60,
+		"mood": "Motivation",
+		"quote": "Change your body by changing your thoughts."
+	},
+	{
+		"id": 61,
+		"mood": "Motivation",
+		"quote": "Work hard. Lift heavy. Make yourself proud."
+	},
+	{
+		"id": 62,
+		"mood": "Motivation",
+		"quote": "DEDICATION - The quality of being dedicated or committed to a task or purpose."
+	},
+	{
+		"id": 63,
+		"mood": "Motivation",
+		"quote": "Be with people who inspire you to become stronger and better."
+	},
+	{
+		"id": 64,
+		"mood": "Motivation",
+		"quote": "MIND over MUSCLE. Believe it before you do it."
+	},
+	{
+		"id": 65,
+		"mood": "Motivation",
+		"quote": "The trouble is, if you don't risk anything, you risk even more."
+	},
+	{
+		"id": 66,
+		"mood": "Motivation",
+		"quote": "Every day is a new beginning. Take a deep breath and start again."
+	},
+	{
+		"id": 67,
+		"mood": "Motivation",
+		"quote": "The meaning of life is not simply to exist, to survive, but to move ahead, to go up, to ahieve, to conquer."
+	},
+	{
+		"id": 68,
+		"mood": "Motivation",
+		"quote": "Quitting lasts temporarily. Achivement is forever."
+	},
+	{
+		"id": 69,
+		"mood": "Motivation",
+		"quote": "It does not matter how slowly you go as long as you do not stop."
+	},
+	{
+		"id": 70,
+		"mood": "Motivation",
+		"quote": "The past cannot be changed. The future is yet in your power."
+	},
+	{
+		"id": 71,
+		"mood": "Motivation",
+		"quote": "With the new day comes new strength and new thoughts."
+	},
+	{
+		"id": 72,
+		"mood": "Motivation",
+		"quote": "Life is 10% what happens to you and 90% how you react to it."
+	},
+	{
+		"id": 73,
+		"mood": "Motivation",
+		"quote": "Good, better, best. Never let it rest. 'Til your good is better and your better is best."
+	},
+	{
+		"id": 74,
+		"mood": "Motivation",
+		"quote": "Only I can change my life. No one can do it for me."
+	},
+	{
+		"id": 75,
+		"mood": "Motivation",
+		"quote": "Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight, or any experience that reveals the human spirit."
+	},
+	{
+		"id": 76,
+		"mood": "Motivation",
+		"quote": "You don't work, you don't eat. You don't grind, you don't shine."
+	},
+	{
+		"id": 77,
+		"mood": "Motivation",
+		"quote": "Defeated is a feeling, not a fact."
+	},
+	{
+		"id": 78,
+		"mood": "Motivation",
+		"quote": "Most people fear failure, but don't realize they fear success at the same time."
+	},
+	{
+		"id": 79,
+		"mood": "Motivation",
+		"quote": "Remember anything you want that's valuable requires you to break through short-term pain in order to gain long-term pleasure."
+	},
+	{
+		"id": 80,
+		"mood": "Motivation",
+		"quote": "Don't ever go with the flow. Be the flow."
+	},
+	{
+		"id": 81,
+		"mood": "Motivation",
+		"quote": "They will laugh at you until you make it."
+	},
+	{
+		"id": 82,
+		"mood": "Motivation",
+		"quote": "Rule your mind or it will rule you."
+	},
+	{
+		"id": 83,
+		"mood": "Motivation",
+		"quote": "If it's still in your mind. It is worth taking the risk."
+	},
+	{
+		"id": 84,
+		"mood": "Motivation",
+		"quote": "Don't look back. You're not going that way."
+	},
+	{
+		"id": 85,
+		"mood": "Motivation",
+		"quote": "When something goes wrong in your life, just yell 'PLOT TWIST!' and move on stronger than ever."
+	},
+	{
+		"id": 86,
+		"mood": "Motivation",
+		"quote": "Fall seven times, stand up eight."
+	},
+	{
+		"id": 87,
+		"mood": "Motivation",
+		"quote": "You don't have to see the whole staircase, just take the first step."
+	},
+	{
+		"id": 88,
+		"mood": "Motivation",
+		"quote": "The only limits in life are the ones you make."
+	},
+	{
+		"id": 89,
+		"mood": "You are your life's engineer, and you will create and invent your success in your own way."
+	},
+	{
+		"id": 90,
+		"mood": "Motivation",
+		"quote": "Don't let those who are doubting you smile."
+	},
+	{
+		"id": 91,
+		"mood": "Motivation",
+		"quote": "Prove. Them. Wrong."
+	},
+	{
+		"id": 92,
+		"mood": "Motivation",
+		"quote": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+	},
+	{
+		"id": 93,
+		"mood": "Motivation",
+		"quote": "Hustle until you no longer need to introduce yourself."
+	},
+	{
+		"id": 94,
+		"mood": "Motivation",
+		"quote": "If you are not willing to risk the usual, you will have to settle for the ordinary."
+	},
+	{
+		"id": 95,
+		"mood": "Motivation",
+		"quote": "Be crazy enough to think you can change the world."
+	},
+	{
+		"id": 96,
+		"mood": "Motivation",
+		"quote": "You can’t have a million-dollar dream with a minimum-wage work ethic."
+	},
+	{
+		"id": 97,
+		"mood": "Motivation",
+		"quote": "Time is more valuable than money. You can get more money, but you cannot get more time."
+	},
+	{
+		"id": 98,
+		"mood": "Motivation",
+		"quote": "Vizualize an inevitable success and dream into reality."
+	},
+	{
+		"id": 99,
+		"mood": "Motivation",
+		"quote": "If your life was a movie, would others take the thrill in re-watching it?"
+	},
+	{
+		"id": 100,
+		"mood": "Motivation",
+		"quote": "The hardest thing in life, is living with the thought that you could've been happy and successful if you worked that much harder."
+	}
+]
